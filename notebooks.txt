@@ -1,0 +1,10 @@
+1000;Ноутбук Irbis NB77;Irbis;2;32;14;Windows;Black;
+1001;Ноутбук Irbis NB270;Irbis;4;128;14;Windows;White;
+2000;Ноутбук ASUS Laptop E210KA-GJ080W;ASUS;2;128;15;Windows;Black;
+3000;Ноутбук HP 255 G8;HP;4;128;14;Windows;Silver;
+4000;Ноутбук Lenovo IdeaPad L3 15ITL6;Lenovo;4;256;14;Windows;Silver;
+4001;Ноутбук Lenovo V15 ADA;Lenovo;4;128;14;Windows;Gray;
+5000;Ноутбук Acer Aspire 3 A315-34-C1QD;Acer;4;128;14;Windows;White;
+6000;Ноутбук Dell Vostro 3400-4579;Dell;8;256;15;Linux;Black
+6001;Ноутбук Dell Vostro 3500-5643;Dell;16;512;16;Linux;Blue
+6002;Ноутбук Dell Vostro 3500-5650;Dell;16;1000;17;Linux;Black
